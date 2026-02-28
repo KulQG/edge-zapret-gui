@@ -1,0 +1,17 @@
+@import url('./fonts/font-settings.css');
+
+body {
+  overflow: hidden;
+  background-color: #111114;
+  background-image: url('./alt.png');
+  background-size: 30%;
+  background-repeat: no-repeat;
+  background-position: left 10px bottom;
+  user-select: none;
+  min-height: 100svh;
+}
+
+#root {
+  height: 100svh;
+}
+
